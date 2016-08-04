@@ -13,6 +13,9 @@ int main()
 	cout << "Hello Buddy!" << endl;
 
 	cout << "Yo mama" << endl;
+	cout << "idk man" << endl;
+	cout << "The blue sky" << endl;
+	//omg plzssssssssz
 
 
 	system("pause");
