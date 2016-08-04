@@ -12,6 +12,9 @@ int main()
 	cout << "Hello World!" << endl;
 	cout << "Hello Buddy!" << endl;
 
+	cout << "Yo mama" << endl;
+
+
 	system("pause");
 
 	return 0;
