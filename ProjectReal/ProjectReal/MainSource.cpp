@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-
-	cout << "Hello World!" << endl;
+	//Cluck cluck
+	cout << "Hello World 2" << endl;
 	
 	system("pause");
 
