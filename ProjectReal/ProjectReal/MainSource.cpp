@@ -10,7 +10,7 @@ int main()
 {
 
 	cout << "Hello World!" << endl;
-	cout << "Hello World!" << endl;
+	cout << "Hello Buddy!" << endl;
 
 	system("pause");
 
