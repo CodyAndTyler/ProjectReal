@@ -10,8 +10,7 @@ int main()
 {
 	
 	cout << "Hello World" << endl;
-	cout << "chicken time" << endl;
-	cout << "sup" << endl;
+	
 	system("pause");
 
 	return 0;
